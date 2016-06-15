@@ -1,0 +1,29 @@
+First set the places you want to goto by starting place
+ex.
+"
+here we start from Colombo so
+set the varible in Main call places
+like
+String places = "Colombo Anuradhapura Trincomalee Kandy Galle NuwaraEliya Jaffna Arugambay Pinnawala Yala\n";
+
+"
+Run the GraphApp1.java
+
+NOte :
+
+Penalty for using same path again and again added as below
+
+if we use 3times one path that cost 100 ,in the full trip
+
+as you metioned
+first time cost 100
+second time cost for that path is 200
+
+then if it uses for third time I got it as
+
+Trird time cost 300 for using that path
+like that......
+
+
+
+
